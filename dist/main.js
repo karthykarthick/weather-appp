@@ -1,0 +1,1 @@
+!async function(a){const t=await fetch("http://api.openweathermap.org/data/2.5/weather?q=chennai&appid=4b0acdbf1b451ce9f57778d2b016642b");await t.json()}();
