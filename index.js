@@ -47,7 +47,7 @@ updateWeatherApp = (city) => {
     `;
     if (isDayTime(imageName)) {
         console.log('day');
-        timeImage.setAttribute('src', '/src/img/day_image.svg');
+        timeImage.setAttribute('src', 'img/day_image.svg');
         if (cityName.classList.contains('text-white')) {
             cityName.classList.remove('text-white');
         } else {
@@ -56,7 +56,7 @@ updateWeatherApp = (city) => {
 
     } else {
         console.log('night');
-        timeImage.setAttribute('src', '/src/img/night_image.svg');
+        timeImage.setAttribute('src', 'img/night_image.svg');
         if (cityName.classList.contains('text-black')) {
             cityName.classList.remove('text-black');
         } else {
