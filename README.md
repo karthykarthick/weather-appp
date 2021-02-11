@@ -16,7 +16,7 @@ It can fetch data using Open weather Api and it can locates your weather using t
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://karthykarthick.github.io/weather-app/)
 
 
 ## Getting Started
